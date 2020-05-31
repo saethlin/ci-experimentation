@@ -1,5 +1,3 @@
-oof
-
 Run CI in persistent docker containers so we don't futz with caching
 
 Master service that spawns docker containers in a systemd service for each PR and master branch
