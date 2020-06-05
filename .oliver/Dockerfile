@@ -1,1 +1,1 @@
-FROM rust-alpine:latest
+FROM rust:alpine
